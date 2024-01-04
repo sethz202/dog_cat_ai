@@ -1,0 +1,1 @@
+Basic AI program that takes one(1), three(3) letter word and will convert it into a different three(3) letter "goal" word, all while showing the steps that it took to reach the new word. Very likely could be optimized to find the goal word, I have little time on my hands to dive back into this project at the moment, but it works as expected.
